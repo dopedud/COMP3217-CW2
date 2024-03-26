@@ -1,2 +1,5 @@
-# Python environment files
+# Python environment folder
 .venv
+
+# VS code settings folder
+.vscode
