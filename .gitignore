@@ -1,5 +1,6 @@
 # Python environment folder
 .venv
+venv
 
 # VS code settings folder
 .vscode
