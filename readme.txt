@@ -6,4 +6,5 @@ Steps to re-run training and reproduce results on machine learning models:
 (for part A, use TrainingDataBinary.csv and TestingDataBinary.csv)
 (for part B, use TrainingDataMulti.csv and TestingDataMulti.csv)
 2. Choose 'Run All' option that is hidden under 'Runtime' tab in the taskbar located at the top.
-3. When run, cell 2 will ask for files to be uploaded. Cancel this operation.
+3. When run, cell 2 will ask for files to be uploaded. If step 1 is done correctly, this operation can be canceled.
+Otherwise, select the corresponding files to be uploaded mentioned in part 1.
